@@ -136,7 +136,7 @@ h2{
     color: white;
     font-family: 'Inter', sans-serif;
     font-weight: 300;
-    font-size: .77rem;
+    font-size: 18px;
     margin-top: 7px;
   }
 
@@ -144,7 +144,7 @@ h2{
     color: white;
     font-family: 'Inter', sans-serif;
     font-weight: 300;
-    font-size: 7px;
+    font-size: 13px;
     text-align: center;
     margin: 0;
   }
